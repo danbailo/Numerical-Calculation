@@ -24,8 +24,6 @@ int main(int argc, char const *argv[]){
         printf("%i %lf %lf\n",it,x,f(x));
         it++;
     }
-    
-    printf("%lf\n",f(x));
-    
+
     return 0;
 }
